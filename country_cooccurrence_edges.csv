@@ -1,0 +1,47 @@
+src,dst,weight
+austria,sweden,2
+france,germany,2
+china,japan,2
+poland,russia,2
+finland,sweden,2
+denmark,norway,2
+austria,hungary,2
+austria,finland,2
+austria,france,1
+austria,germany,1
+austria,russia,1
+austria,china,1
+belgium,denmark,1
+belgium,france,1
+belgium,netherlands,1
+belgium,norway,1
+brazil,china,1
+egypt,israel,1
+canada,egypt,1
+canada,finland,1
+china,russia,1
+china,italy,1
+china,hungary,1
+china,portugal,1
+china,south africa,1
+czechoslovakia,germany,1
+denmark,sweden,1
+denmark,netherlands,1
+denmark,ireland,1
+denmark,france,1
+finland,soviet union,1
+france,netherlands,1
+france,norway,1
+france,poland,1
+iran,poland,1
+iran,south korea,1
+hungary,russia,1
+india,pakistan,1
+germany,italy,1
+germany,poland,1
+germany,switzerland,1
+italy,united states,1
+italy,thailand,1
+norway,sweden,1
+netherlands,norway,1
+portugal,spain,1

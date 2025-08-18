@@ -1,0 +1,685 @@
+sent_id,sentence,raw_entities,countries
+2,"January 22 : Edward VII became King of England and India after Queen Victoria 's death.
+",['India'],['india']
+4,"June : Emily Hobhouse reports on the poor conditions in 45 British internment camps for Boer women and children in South Africa .
+September 6 : The assassination of William McKinley ushered in office Vice President Theodore Roosevelt after McKinley's death on September 14.
+September 7 : The Eight-Nation Alliance defeats the Boxer Rebellion , and imposes heavy financial penalties on China .
+","['British', 'South Africa', 'McKinley', 'China']","['china', 'south africa']"
+12,"Venezuelan crisis of 1902–1903 , in which Britain, Germany and Italy impose a naval blockade on Venezuela in order to enforce collection of outstanding financial claims.
+","['Venezuelan', 'Britain', 'Germany', 'Italy', 'Venezuela']","['germany', 'italy', 'united kingdom']"
+14,"In Russia the Bolsheviks and the Mensheviks form from the breakup of the Russian Social Democratic Labour Party .
+August 4 : Pius X becomes Pope .
+November 18 : Independence of Panama , the Hay–Bunau-Varilla Treaty is signed by the United States and Panama .
+","['Russia', 'Bolsheviks', 'Mensheviks', 'Panama', 'the United States', 'Panama']",['russia']
+17,"1904
+February 8 : A Japanese surprise attack on Port Arthur (Lushun) starts the Russo-Japanese War .
+April 8 : Entente Cordiale signed between Britain and France.
+","['Japanese', 'Lushun', 'Britain', 'France']","['france', 'united kingdom']"
+18,"May : U.S. begins construction of the Panama Canal and eradication of yellow fever .
+","['U.S.', 'the Panama Canal']",['united states']
+22,"1905
+January 22 : The Revolution of 1905 in Russia erupts.
+",['Russia'],['russia']
+23,"March 31 : The First Moroccan Crisis begins, going until April 1906.
+June 7 : The Norwegian Parliament declares the union with Sweden dissolved , and Norway achieves full independence.
+","['Norwegian', 'Sweden', 'Norway']","['norway', 'sweden']"
+28,"Schlieffen Plan proposed in Berlin to defeat France.
+","['Berlin', 'France']",['france']
+31,"August 16 : An earthquake in Valparaíso, Chile , magnitude 8.2, kills 20,000.
+","['Valparaíso', 'Chile']",['chile']
+34,"The Stolypin reform in Russia creates a new class of affluent kulaks .
+",['Russia'],['russia']
+37,"July 24 : Japan–Korea Treaty of 1907 .
+",['Japan'],['japan']
+44,"early October : Austria-Hungary annexes Bosnia-Herzegovina , triggering the Bosnian Crisis .
+","['Austria', 'Hungary', 'Bosnia-Herzegovina']","['austria', 'hungary']"
+46,"December 2 : Puyi , the last Emperor of China , assumes the throne.
+",['China'],['china']
+47,"December 28 : The 1908 Messina earthquake in southern Italy, magnitude 7.1, kills 70,000 people.
+","['Messina', 'Italy']",['italy']
+55,"Japan and China sign the Jiandao/Gando Treaty .
+","['Japan', 'China']","['china', 'japan']"
+56,"United States troops leave Cuba.
+","['United States', 'Cuba']",['united states']
+59,"May 6 : George V becomes King of the United Kingdom and the British Dominions and Emperor of India upon the death of Edward VII .
+","['the United Kingdom', 'India']",['india']
+63,"October 5 : The 5 October 1910 revolution in Portugal and proclamation of the First Portuguese Republic .
+",['Portugal'],['portugal']
+66,"March 25 : Triangle Shirtwaist Factory fire in New York City results in the deaths of 146 workers and leads to sweeping workplace safety reforms.
+April – November : Agadir Crisis .
+September 29 : The Italo-Turkish war which led to the capture of Libya by Italy , begins.
+October 10 : 1911 Revolution , which overthrew the Qing dynasty of China, begins.
+","['New York City', 'Libya', 'Italy', 'China']","['china', 'italy']"
+68,"December 12 : New Delhi becomes the capital of British India .
+","['New Delhi', 'British', 'India']",['india']
+73,"Republic of China established.
+",['China'],['china']
+76,"Captain Scott and his companions die in a blizzard on their way back from the South Pole.
+March 30 : Morocco becomes a protectorate of France .
+","['the South Pole', 'Morocco', 'France']",['france']
+78,"July 30 : Emperor Meiji dies, ending the Meiji era ; his son, the Emperor Taishō , becomes Emperor of Japan .
+","['Meiji', 'Japan']",['japan']
+80,"Banana Wars : United States occupation of Nicaragua begins.
+","['United States', 'Nicaragua']",['united states']
+81,"1913
+January 23 : In the 1913 Ottoman coup d'état , Ismail Enver comes to power.
+February 9 – 19 : Ten Tragic Days in Mexico City .
+","['Ottoman', 'Mexico City']",['turkey']
+89,"Yuan Shikai uses military force to dissolve China 's parliament and rules as a dictator.
+",['China'],['china']
+91,"1914
+June 28 : Gavrilo Princip assassinates Archduke Franz Ferdinand of Austria in Sarajevo , triggering the start of World War I that day.
+","['Austria', 'Sarajevo']",['austria']
+94,"The Race to the Sea leaves Germany and the Allies entrenched along the Western Front .
+","['Sea', 'Germany']",['germany']
+95,"December 19 : The United Kingdom establishes the Sultanate of Egypt as a protectorate.
+","['The United Kingdom', 'Egypt']",['egypt']
+105,"March 7 : Bayerische Flugzeugwerke, later to become BMW , is founded in Germany.
+",['Germany'],['germany']
+106,"April 24 – 30 : Easter Rising in Ireland.
+",['Ireland'],['ireland']
+107,"April 30 : The first nationwide implementation of daylight saving time in the German Empire and Austria-Hungary .
+June – September : Brusilov offensive by Russia.
+June 6 : The Warlord Era begins in China after the death of Yuan Shikai .
+June 10 : The Arab Revolt begins.
+July – November : Battle of the Somme on Western Front; massive casualties.
+","['German', 'Empire', 'Austria', 'Hungary', 'Russia', 'China']","['austria', 'china', 'hungary', 'russia']"
+111,"December 30 : Grigori Rasputin is assassinated in Russia.
+",['Russia'],['russia']
+113,"1917
+March 8 : Russian Revolution ends the Russian Empire ; beginning of Russian Civil War .
+April 6 : USA joins the Entente for the last 17 months of World War I.
+May – October : Apparitions of Our Lady of the Rosary in Fátima, Portugal .
+June 4 : The first Pulitzer Prizes announced.
+July – November :","['Russian', 'the Russian Empire', 'USA', 'Fátima', 'Portugal']","['portugal', 'united states']"
+116,"Battle of Caporetto .
+November 1 – 2 : The Third Battle of Gaza ends in British victory.
+November 7 ( O.S. October 25 ): October Revolution in the Russian Republic .
+November 8 : The Ukrainian–Soviet War begins.
+November 26 : The National Hockey League is formed in Montreal, Canada.
+December 6 : Independence of Finland .
+","['Gaza', 'British', 'O.S.', 'the Russian Republic', 'Ukrainian', 'Soviet War', 'Montreal', 'Canada', 'Finland']","['canada', 'finland']"
+119,"January 22 : Ukraine declares independence from Russia.
+","['Ukraine', 'Russia']",['russia']
+122,"March 25 : Belarus declares independence from Russia.
+",['Russia'],['russia']
+126,"August – November : The Hundred Days Offensive sends Germany into defeat.
+October : the State of Slovenes, Croats and Serbs is established.
+October 29 : German Revolution begins.
+October 30 : The Mutawakkilite Kingdom of Yemen founded.","['Germany', 'Croats', 'Serbs', 'German Revolution', 'The Mutawakkilite Kingdom of Yemen']",['germany']
+127,"The Partition of the Ottoman Empire begins.
+",['Ottoman'],['turkey']
+134,"Poland declares independence from Russia.
+","['Poland', 'Russia']","['poland', 'russia']"
+136,"Poland declares independence from Russia.
+","['Poland', 'Russia']","['poland', 'russia']"
+137,"December 1 : The Kingdom of Iceland , a personal union with Denmark, is formed.
+","['The Kingdom of Iceland', 'Denmark']",['denmark']
+139,"1919
+Paris Peace Conference writes Treaty of Versailles that punishes Germany.
+","['Paris', 'Germany']",['germany']
+143,"March 2 : Communist International established in the Kremlin to coordinate Communist parties worldwide.
+April 11 : The International Labour Organization is established.
+April 13 : The Jallianwala Bagh massacre in northern India: Acting Brigadier-General Reginald Dyer orders troops of the British Indian Army to fire their rifles into a crowd of unarmed Indian civilians, killing from 379 to 1,000 people and injuring another 1,500.
+","['Communist', 'India', 'Indian']",['india']
+154,"Greece restores its monarchy after a referendum .
+",['Greece'],['greece']
+157,"February – March : Russia invades Georgia and incorporates it into the Soviet Union.
+March 4 : Warren G. Harding is inaugurated as President of the United States.
+","['Russia', 'Georgia', 'the Soviet Union', 'the United States']",['russia']
+161,"Coup brings the Pahlavi dynasty to power in Iran.
+","['Pahlavi', 'Iran']",['iran']
+167,"February 28 : Egypt gains independence from the United Kingdom , though British forces still occupy the Suez Canal .
+June 28 : The Irish Civil War begins.
+July 29 : Julius the Cat debuts in Disney.
+September 4 : Jack debuts in Disney.
+October 23 : Conservative Bonar Law becomes Prime Minister of the United Kingdom.
+","['Egypt', 'the United Kingdom', 'British', 'the Suez Canal', 'the United Kingdom']",['egypt']
+168,"October 28 : March on Rome brings Benito Mussolini to power in Italy.
+","['Rome', 'Italy']",['italy']
+169,"November 1 : Ottoman Sultanate abolished by the Grand National Assembly of Turkey ; Sultan Mehmed VI is deposed.
+November 4 : Howard Carter discovers the Tomb of Tutankhamun .
+","['Ottoman', 'Sultan']",['turkey']
+173,"December 16 : Gabriel Narutowicz , President of Poland , is assassinated.
+",['Poland'],['poland']
+174,"December 30 : The Union of Soviet Socialist Republics (USSR), the world's first officially Communist state , is formed.
+","['USSR', 'Communist']",['soviet union']
+183,"August 2 : Death of Warren G. Harding ; Vice President Calvin Coolidge assumes office as President of the United States.
+September 1 : The Great Kantō earthquake kills at least 105,000 people in Japan .
+","['the United States', 'Japan']",['japan']
+189,"January 25 – February 5 : The first edition of the Winter Olympic Games is hosted in Chamonix , France.
+","['Chamonix', 'France']",['france']
+192,"May 24 : Immigration Act of 1924 significantly restricts immigration from Asia, the Middle East, and Southern Europe to USA.
+","['Asia', 'the Middle East', 'Southern Europe', 'USA']",['united states']
+201,"1926
+May 12 – 14 : May Coup in Poland.
+",['Poland'],['poland']
+202,"May 28 : 28 May 1926 coup d'état in Portugal.
+",['Portugal'],['portugal']
+204,"July 1 : The Kuomintang begins the Northern Expedition , a military unification campaign in northern China.
+",['China'],['china']
+205,"August 22 : General Georgios Kondylis overthrows General Theodoros Pangalos in Greece.
+",['Greece'],['greece']
+206,"December 25 : Emperor Taishō dies; his son, the Emperor Shōwa (Hirohito) becomes Emperor of Japan.
+",['Japan'],['japan']
+208,"May : The Parliament of Australia convenes in Canberra for the first time.
+","['Australia', 'Canberra']",['australia']
+209,"May 13 : The United Kingdom of Great Britain and Ireland officially becomes the United Kingdom of Great Britain and Northern Ireland .
+","['The United Kingdom of Great Britain', 'Ireland', 'the United Kingdom of Great Britain', 'Northern Ireland']",['ireland']
+210,"May 18 : The Bath School disaster , a series of violent attacks by Andrew Kehoe results in 45 deaths in Michigan , USA.
+","['Michigan', 'USA']",['united states']
+216,"September 19 : Fanny Cottontail debuts in Disney.
+October 4 : Mount Rushmore construction begins in South Dakota, U.S.
+October 6 : The Jazz Singer , the first "" talkie "", is released.
+October 31 : Homer the Cat debuts in Disney.
+","['South Dakota', 'U.S.']",['united states']
+223,"December 29 : The Warlord Era ends in China.
+",['China'],['china']
+236,"March 12 : Salt March by Mohandas Gandhi and the official start of civil disobedience in British India .
+","['British', 'India']",['india']
+242,"First Round Table Conference between India and Great Britain, which goes until January 1931.
+","['India', 'Great Britain']","['india', 'united kingdom']"
+243,"November 3 : The Vargas Era begins in Brazil.
+",['Brazil'],['brazil']
+249,"Floods in China kill up to 2.5 million people.
+September : Japan invades Manchuria , part of the chain of events leading to the start of World War II.
+October 5 : Clyde Pangborn and Hugh Herndon Jr. complete the first non-stop flight across the Pacific Ocean in their plane, Miss Veedol , in 41½ hours.
+November 7 : The Chinese Soviet Republic is proclaimed by Mao Zedong .
+","['China', 'Japan', 'Manchuria', 'the Pacific Ocean', 'Soviet Republic']","['china', 'japan']"
+251,"Independence of South Africa .
+",['South Africa'],['south africa']
+256,"March 9 : Éamon de Valera becomes President of the Executive Council (prime minister) of the Irish Free State .
+June 4 : Military coup in Chile .
+",['Chile'],['chile']
+258,November – December : Failed Emu War in Australia.,['Australia'],['australia']
+260,"Failed Emu War in Australia.
+",['Australia'],['australia']
+266,"Adolf Hitler becomes Chancellor of Germany .
+",['Germany'],['germany']
+267,"March 4 : Franklin D. Roosevelt is inaugurated as President of the United States
+March 27 : Japan announces it will leave the League of Nations .
+","['the United States', 'Japan']",['japan']
+268,"October 14 : Germany announces its withdrawal from the League of Nations and the World Disarmament Conference, after the U.S., the U.K. and France deny its request to increase its defense armaments under the Versailles Treaty.
+","['Germany', 'U.S.', 'U.K.', 'France']","['france', 'germany', 'united kingdom', 'united states']"
+270,"New Deal begins in America.
+",['America'],['united states']
+271,"United States occupation of Nicaragua ends.
+","['United States', 'Nicaragua']",['united states']
+273,"May 23 : Bonnie and Clyde are shot to death in a police ambush.
+June 30 – July 2 : Adolf Hitler instigates the Night of the Long Knives , which cements his power over both the Nazi Party and Germany.
+",['Germany'],['germany']
+275,"July 25 : Engelbert Dollfuss , Chancellor of Austria, is shot dead as part of a failed Nazi coup d'état .
+August 1 : The United States occupation of Haiti ends.
+","['Austria', 'Nazi', 'The United States', 'Haiti']",['austria']
+276,"August 2 : With the death of Paul von Hindenburg , Hitler declares himself Führer of Germany.
+",['Germany'],['germany']
+280,"March 21 : Reza Shah of Iran asks the international community to formally adopt the name ""Iran"" to refer to the country, instead of the name ""Persia"".
+June 12 : Chaco War ends.
+","['Iran', 'Iran', 'Persia']",['iran']
+284,"1936
+January 20 : Edward VIII becomes King of the British Commonwealth and Emperor of India .
+",['India'],['india']
+285,"May 9 : Italy annexes Ethiopia .
+","['Italy', 'Ethiopia']",['italy']
+295,"July 7 : Japanese invasion of China , and the beginning of World War II in the Far East .
+","['Japanese', 'China', 'the Far East']",['china']
+296,"August 28 : Toyota founded in Japan by Kiichiro Toyoda .
+September 21 : J. R. R. Tolkien publishes The Hobbit .
+",['Japan'],['japan']
+302,"1938
+March 12 : Anschluss unifies Germany and Austria .
+","['Germany', 'Austria']","['austria', 'germany']"
+304,"This would popularize the instrument, currently the most widely used for writing, after World War II.
+July 6 – 15 : Évian Conference ends with all attendee nations save the Dominican Republic refusing to accept more Jewish refugees from the Third Reich .
+September 30 : Munich Agreement hands Czechoslovakia to Nazi Germany.
+November 9 – 10 : Kristallnacht , a pogrom of over 90 Jews in Germany.
+","['Dominican Republic', 'Jewish', 'Czechoslovakia', 'Nazi Germany', 'Jews', 'Germany']","['czechoslovakia', 'germany']"
+309,"April 1 : End of Spanish Civil War ; Francisco Franco becomes dictator of Spain.
+","['Francisco Franco', 'Spain']",['spain']
+310,"August 23 : The Molotov–Ribbentrop Pact between Germany and the Soviet Union.
+","['Germany', 'the Soviet Union']",['germany']
+312,Nazi invasion of Poland triggers World War II in Europe.,"['Nazi', 'Poland', 'Europe']",['poland']
+313,"Soviet invasion of Poland begins 16 days later.
+September 3 : Britain and France declare war on Germany; World War II begins.
+September 13 :","['Soviet', 'Poland', 'Britain', 'France', 'Germany']","['france', 'germany', 'poland', 'united kingdom']"
+314,"Ferrari founded in Modena , Italy (as Auto Avio Costruzioni) by Enzo Ferrari .
+","['Modena', 'Italy']",['italy']
+315,"The Palestinian revolt against the British ends.
+1940s
+1940
+January : Chechen insurgency begins in Soviet Union.
+March 13 : The Winter War between Soviet Union and Finland ends with a costly victory for the USSR.
+","['Palestinian', 'British', 'Chechen', 'Soviet Union', 'Finland', 'USSR']","['finland', 'soviet union']"
+316,"April – May : The Katyn massacre of Polish soldiers in USSR and the Soviet occupation of the Baltic states .
+","['Polish', 'USSR', 'Soviet', 'Baltic']",['soviet union']
+319,"May – June : Nazis invade Denmark and Norway , followed by Belgium , the Netherlands and France ; their governments (except Denmark) are exiled to the United Kingdom.
+","['Denmark', 'Norway', 'Belgium', 'Netherlands', 'France', 'the United Kingdom']","['belgium', 'denmark', 'france', 'netherlands', 'norway']"
+321,"July – October : Battle of Britain , the first entirely aerial military campaign, becomes the first significant defeat for the Axis powers.
+",['Britain'],['united kingdom']
+322,"August 20 : Leon Trotsky is assassinated in Mexico.
+",['Mexico'],['mexico']
+325,"1941
+June – December : Hitler commences the Nazi invasion of the Soviet Union .
+June 25 : Continuation War between Finland and the Soviet Union begins.","['Nazi', 'the Soviet Union', 'Finland', 'the Soviet Union']",['finland']
+327,"Operation Reinhard commences the main phase of The Holocaust .
+December 7 : The Japanese Attack on Pearl Harbor leads to the USA joining World War II .
+","['Japanese', 'USA']",['united states']
+367,"August 15 : Victory over Japan Day .
+",['Japan'],['japan']
+368,"August 17 : Independence of Indonesia proclaimed beginning the Indonesian National Revolution .
+",['Indonesia'],['indonesia']
+373,"October 8 : The microwave cooking oven is patented, with one of the first prototypes placed at a Boston restaurant for testing.
+October 29 : In Brazil, Getúlio Vargas is deposed in a coup.
+","['Boston', 'Brazil']",['brazil']
+376,"March 30 : Greek Civil War begins.
+June 2 : Italy becomes a republic .
+June 9 : Bhumibol Adulyadej becomes King of Thailand .
+","['Italy', 'Thailand']","['italy', 'thailand']"
+377,"July 4 : The Treaty of Manila declares the Philippines independent.
+",['Philippines'],['philippines']
+386,"Independence of India and Pakistan and beginning of First Indo-Pakistani War .
+","['India', 'Pakistan']","['india', 'pakistan']"
+390,"Hyundai Group founded by Chung Ju-yung in Seoul, South Korea.
+","['Seoul', 'South Korea']",['south korea']
+392,"February 4 : Independence of Burma and Ceylon ( Sri Lanka ) from Britain.
+April 3 : The Marshall Plan , an American initiative for foreign aid of $13 billion to 16 Western European countries, comes into effect.
+","['Sri Lanka', 'Britain', 'American', 'Western European']",['united kingdom']
+396,"May 14 : United Nations establishes Israeli Independence and the formation of the official State of Israel.
+",['Israel'],['israel']
+400,"September 24 : Honda founded in Hamamatsu , Japan by Soichiro Honda and Takeo Fujisawa .
+","['Hamamatsu', 'Japan']",['japan']
+402,"Beginning of apartheid in South Africa .
+",['South Africa'],['south africa']
+404,"January 5 – 8 : COMECON founded by USSR and the Eastern Bloc .
+","['USSR', 'the Eastern Bloc']",['soviet union']
+409,"Creation of NATO-backed Federal Republic of Germany ( West Germany ).
+","['Federal Republic of Germany', 'West Germany']",['germany']
+411,"October 7 : Creation of the socialist German Democratic Republic ( East Germany ).
+","['German Democratic Republic', 'East Germany']",['germany']
+413,"Soviet Union tests an atomic bomb .
+",['Soviet Union'],['soviet union']
+415,"February 15 : Release date of Disney's Cinderella .
+June 25 : North Korean invasion of South Korea begins the Korean War .
+June – September : The Bodo League Massacre of prisoners during the Korean War.
+August – September : North Korean forces capture most of Korea, to the Pusan Perimeter .
+","['North Korean', 'South Korea', 'North Korean', 'Korea', 'the Pusan Perimeter']",['south korea']
+416,"August 25 : Bertie the Brain , one of the first computer games, is released.
+September – November : UN forces reclaim Seoul and invade North Korea .
+October :","['Seoul', 'North Korea']",['north korea']
+419,"December 30 : Peoples' World Convention (PWC) at Palais Electoral, Geneva , Switzerland
+Communist victory in the Landing Operation on Hainan Island ( March – May ) and Wanshan Archipelago Campaign end the Chinese Civil War ( May – August ).
+","['Geneva', 'Switzerland', 'Communist', 'Hainan Island']",['switzerland']
+421,"September 8 : The Treaty of San Francisco ends the Occupation of Japan and formally concludes hostilities between Japan and the US.
+September 18 : Release date of the acclaimed science fiction film The Day the Earth Stood Still .
+October 26 : Winston Churchill becomes Prime Minister of the United Kingdom.
+","['Japan', 'US', 'the United Kingdom']",['japan']
+423,"May : Bonn–Paris conventions end allied occupation of West Germany.
+","['Bonn', 'Paris', 'West Germany']",['germany']
+430,"The Slansky Trial in Czechoslovakia.
+",['Czechoslovakia'],['czechoslovakia']
+438,"August 19 : Mohammed Mossadeq deposed in Iran .
+November 9 : Independence of Cambodia .
+",['Iran'],['iran']
+445,"October 23 : The Western European Union is established.
+November 1 : Algerian War begins.
+November 3 : Godzilla is released in Japan .
+",['Japan'],['japan']
+454,"1956
+January 1 : Independence of Sudan from Britain.
+","['Sudan', 'Britain']",['united kingdom']
+455,"March 7 : The United States recognises Morocco 's independence from France
+March 20 : Independence of Tunisia from France.
+","['The United States', 'Morocco', 'France', 'Tunisia', 'France']",['france']
+456,"March 23 : Pakistan becomes a republic.
+",['Pakistan'],['pakistan']
+457,"May 9 : The first Eurovision is held in Switzerland .
+October 29 – November 7 : Nasser's nationalisation of the Suez Canal triggers the Suez crisis .
+","['Switzerland', 'the Suez Canal', 'Suez']",['switzerland']
+459,"Construction of Brasília , the new capital of Brazil to replace Rio de Janeiro , begins.
+",['Brazil'],['brazil']
+462,"March 6 : Independence of Ghana from Britain.
+","['Ghana', 'Britain']",['united kingdom']
+469,"Beginning of the Asian flu in China, leading to a worldwide pandemic that lasts until the following year.
+","['Asian', 'China']",['china']
+471,"May : May 1958 crisis in France .
+",['France'],['france']
+475,"October 2 : Guinea gains independence from France .
+",['France'],['france']
+481,"Start of the Great Leap Forward in China.
+",['China'],['china']
+486,"March 10 – 23 : Uprising in Tibet against China leads to the exile of the Dalai Lama .
+","['Tibet', 'China', 'the Dalai Lama']",['china']
+488,"October 7 : The USSR probe Luna 3 sends back the first ever photos of the far side of the Moon .
+November 1 : Beginning of the Vietnam War , which lasts until 1975.
+",['USSR'],['soviet union']
+491,"Great Chinese Famine begins in China .
+",['China'],['china']
+496,"April 21 : Construction of Brasília , Brazil's new capital, finished.
+",['Brazil'],['brazil']
+501,"May 22 : An earthquake in Valdivia, Chile of magnitude 9.4 to 9.6, the highest ever recorded, causes 1,000 to 6,000 deaths.
+","['Valdivia', 'Chile']",['chile']
+504,"October 12 : Inejiro Asanuma , a Japanese socialist politician, is assassinated during a broadcast on TV.
+November 8 : The 1960 United States presidential election marks the first televised debates between presidential candidates.
+","['Japanese', 'United States']",['united states']
+507,"Khrushchev withdraws Soviet cooperation with China, initiating the Sino-Soviet split .
+","['Khrushchev', 'Soviet', 'China', 'Sino-Soviet']",['china']
+518,"The Great Leap Forward ends in China after the deaths of roughly 20–45 million people.
+",['China'],['china']
+526,"January 20 : Indonesia–Malaysia confrontation begins.
+March – April :","['Indonesia', 'Malaysia']",['indonesia']
+535,"March 31 – April 1 : A coup d'état establishes a military dictatorship in Brazil .
+",['Brazil'],['brazil']
+537,"May 27 : Colombian armed conflict begins.
+July 2 : Civil Rights Act abolishes segregation in the USA.
+July 4 : Rhodesian Bush War begins.
+July 6 : Independence of Malawi .
+","['Colombian', 'USA']",['united states']
+538,"August 2 : The Gulf of Tonkin incident led to the escalation of U.S. military involvement in the Vietnam War .
+September 21 : Independence of Malta .
+October 14 :",['U.S.'],['united states']
+539,"Leonid Brezhnev ousts Khrushchev and assumes power in the Soviet Union.
+October 16 : China detonates its first nuclear weapon .
+","['the Soviet Union', 'China']",['china']
+545,"Forces loyal to former president Juan Bosch overthrow current leader Donald Reid Cabral .
+April 26 : Establishment of Rede Globo , now the largest TV network in Brazil and Latin America and the second-largest in the world after ABC .
+","['Brazil', 'Latin America']",['brazil']
+548,"August 30 : Bob Dylan releases Highway 61 Revisited .
+August – September : Second Indo-Pakistani War .
+September 30 : 30 September Movement in the Indonesia .
+",['Indonesia'],['indonesia']
+550,"Beginning of the anti-Communist purge in Indonesia , which killed up to 500,000 people.
+","['anti-Communist', 'Indonesia']",['indonesia']
+552,"China's Cultural Revolution begins.
+",['China'],['china']
+554,"China's Cultural Revolution begins.
+",['China'],['china']
+555,"August 11 : The Indonesia–Malaysia confrontation ends.
+","['Indonesia', 'Malaysia']",['indonesia']
+564,"June 5 – 10 : The Six-Day War , a conflict between Israel and Arab states that resulted in Israel occupying the Gaza Strip, the Sinal Peninsula, the West Bank and the Golan Heights.
+","['Israel', 'Arab', 'Israel', 'the Gaza Strip', 'the Sinal Peninsula', 'the West Bank', 'the Golan Heights']",['israel']
+574,"January – August : Prague Spring in Czechoslovakia crushed by the Eastern Bloc military intervention .
+","['Prague', 'Czechoslovakia', 'Eastern Bloc']",['czechoslovakia']
+578,"My Lai massacre , a mass murder and rape of unarmed South Vietnamese civilians by U.S. troops in the Vietnam War .
+","['South Vietnamese', 'U.S.']",['united states']
+579,"March 21 : Battle of Karameh in Jordan (part of the War of Attrition between Israel and Arab states).
+","['Jordan', 'Israel', 'Arab']",['israel']
+580,"April 4 : Assassination of Martin Luther King Jr.
+June 5 : Assassination of Robert F. Kennedy
+August 23 : 1968 Democratic National Convention protests ("" The whole world is watching "")
+August 27 : First World Constituent Assembly , took place in Interlaken , Switzerland and Wolfach , Germany
+September 6 : Swaziland gains independence from Great Britain
+September – Zond 5 travels to the Moon with the first lifeforms to reach Earth's satellite
+December – Apollo 8 orbits the Moon with three NASA astronauts, becoming the first human spaceflight mission to enter the gravitational influence of another celestial body.
+","['Interlaken', 'Switzerland', 'Wolfach', 'Germany', 'Great Britain', 'Earth']","['germany', 'switzerland', 'united kingdom']"
+583,"The Years of Lead , a period of social turmoil, political violence, and upheaval in Italy , begin.
+",['Italy'],['italy']
+585,"1969
+January 13 : Samsung Electronics founded in Suwon , South Korea.
+","['Suwon', 'South Korea']",['south korea']
+589,"April 28 : Charles de Gaulle resigns as President of France after a referendum on political reform is voted down.
+June 28 – July 3 : The Stonewall riots in New York City instigate the gay rights movement.
+July 20 : Apollo 11 Moon landing , in which Neil Armstrong and Buzz Aldrin become the first two humans on the Moon.
+August 8 – 9 : The Manson Family Murders – Under Charles Manson 's orders, his followers, the ""Manson Family"" cult, enter the home of Hollywood actress Sharon Tate and murder her and four others.
+","['France', 'New York City', 'Hollywood']",['france']
+596,"April 1 : U.S. President Richard M. Nixon signs Public Health Cigarette Smoking Act .
+",['U.S.'],['united states']
+599,"July 12 : Thor Heyerdahl 's papyrus boat Ra II arrived in Barbados , bringing an end to its 3,200 mi (5,100 km) journey across the Atlantic Ocean.
+September 6 : Black September in Jordan begins, lasting until mid-1971.
+October – December : FLQ seizes hostages , causing Prime Minister Pierre Elliot Trudeau of Canada to issue the War Measures Act .
+October 5 : The Public Broadcasting Service (PBS) began broadcasting as a successor to National Educational Television (NET) in the United States.
+October 15 : Anwar Sadat becomes President of Egypt .
+","['Barbados', 'the Atlantic Ocean', 'Jordan', 'Canada', 'the United States', 'Egypt']","['canada', 'egypt']"
+607,"March 26 : Bangladesh Liberation War and Bangladesh genocide occur, independence of Bangladesh from Pakistan precipitates Third Indo-Pakistani War .
+","['Bangladesh', 'Bangladesh', 'Pakistan']",['pakistan']
+617,"1972
+January : Sheikh Mujibur Rahman returns to Bangladesh from imprisonment in Pakistan.
+","['Bangladesh', 'Pakistan']",['pakistan']
+619,"February 21 – 28 : U.S. President Richard M. Nixon makes an unprecedented 8-day visit to the People's Republic of China and meets with Mao Zedong .
+","['U.S.', ""the People's Republic of China""]",['united states']
+626,"1973
+January 1 : Denmark , Ireland and the United Kingdom joins the European Communities .
+","['Denmark', 'Ireland', 'the United Kingdom']","['denmark', 'ireland']"
+629,"Pink Floyd 's album The Dark Side of the Moon is released in the UK.
+",['UK'],['united kingdom']
+637,"The Terracotta Army of Qin Shi Huang is discovered at Xi'an , China.
+","[""Xi'an"", 'China']",['china']
+639,"The Terracotta Army of Qin Shi Huang is discovered at Xi'an , China.
+April 25 : Carnation Revolution in Portugal begins transition to democracy.
+July – August :","[""Xi'an"", 'China', 'Portugal']","['china', 'portugal']"
+645,"Dirty War begins in Argentina.
+",['Argentina'],['argentina']
+649,"Cambodian genocide begins.
+April 30 : The Fall of Saigon ends the Vietnam War .
+June 25 : Prime Minister Indira Gandhi declares a state of emergency in India, suspending civil liberties and elections.
+","['Cambodian', 'Saigon', 'India']",['india']
+650,"August 1 : The Helsinki Accords , which officially recognize Europe's national borders and respect for human rights, are signed in Finland.
+","['Europe', 'Finland']",['finland']
+651,"November 11 : Angola declares independence from Portugal and Angolan Civil War erupts.
+",['Portugal'],['portugal']
+653,"November 22 : Juan Carlos I becomes King of Spain .
+",['Spain'],['spain']
+656,"1976
+March 24 : 1976 Argentine coup d'état leads to a military dictatorship in Argentina.
+April 1 : Steve Wozniak invents the Apple I and Steve Jobs then convinces Wozniak to sell the system, giving birth to Apple Computer .
+","['Argentine', 'Argentina']",['argentina']
+657,"June 16 – 18 : Around 20,000 students took part in the Soweto uprising during Apartheid in South Africa.
+July 4 : Operation Entebbe , a successful counter-terrorist hostage-rescue mission carried out by commandos of the Israel Defense Forces (IDF) at Entebbe Airport in Uganda.
+September 9 : Death of Mao Zedong .","['Soweto', 'South Africa', 'Uganda']",['south africa']
+658,"Release of VHS (Video Home System) in Japan.
+",['Japan'],['japan']
+660,"Release of VHS (Video Home System) in Japan.
+October 6 : End of Cultural Revolution .
+",['Japan'],['japan']
+668,"June 16 : Second World Constituent Assembly took place in Innsbruck , Austria
+June 27 : Djibouti gains independence from France .
+June 30 : Second World Constituent Assembly established a Provisional World Government
+July 13 : Somalia declares war on Ethiopia setting off the Ethio-Somali War .
+","['Innsbruck', 'Austria', 'Djibouti', 'France', 'Somalia', 'Ethiopia']","['austria', 'france']"
+672,"October 19 : Suicide of members of Baader-Meinhoff Group and murder of Hanns Martin Schleyer ends crisis in West Germany .
+",['West Germany'],['germany']
+673,"October 26 : The last wild case of smallpox is eradicated by the WHO .
+November 19 : Egyptian President Anwar Sadat becomes the first Arab leader to visit Israel in the hopes of establishing peace between the two countries.
+","['Egyptian', 'Arab', 'Israel']",['israel']
+675,"1978
+February 5 – 7 : The Northeastern United States blizzard of 1978 hits the New England region and the New York metropolitan area , killing about 100, and causing over US$520 million in damage.
+","['United States', 'New England', 'New York']",['united states']
+680,"September 17 : The Camp David Accords are signed between Israel and Egypt.
+","['Israel', 'Egypt']","['egypt', 'israel']"
+681,"September 28 : John Paul I dies, his papacy being one of the shortest in history.
+October 1 : Independence of Tuvalu from Britain.
+October 9 : The Uganda–Tanzania War begins.
+October 16 : John Paul II becomes pope.
+","['Britain', 'Uganda']",['united kingdom']
+686,"December 29 : The current Constitution of Spain comes into effect, which for some marks the completion of the Spanish transition to democracy .
+","['Spain', 'Spanish']",['spain']
+696,"June : Arrival of Pope John Paul II in Poland , eventually sparking the Solidarity movement .
+",['Poland'],['poland']
+698,"October 15 : Beginning of the Salvadoran Civil War .
+October 26 : Assassination of Park Chung Hee , President of South Korea.
+November 4 : The Iran hostage crisis begins.
+","['South Korea', 'Iran']","['iran', 'south korea']"
+710,"July 1 : Adoption of "" O Canada "" as the national anthem of Canada .
+","['Canada', 'Canada']",['canada']
+712,"August 31 : Solidarity union forms at Poland's Gdańsk Shipyard under Lech Wałęsa , and begins agitation for greater personal freedoms.
+",['Poland'],['poland']
+713,"September 22 : Beginning of the Iran–Iraq War .
+November 13 : Voyager 1 takes the first close-up pictures of Saturn .
+",['Iran'],['iran']
+719,"1981
+January 1 : Greece joins the European Communities .
+",['Greece'],['greece']
+721,"Iran releases the 52 U.S. hostages held in Tehran after 444 days.
+","['Iran', 'U.S.', 'Tehran']","['iran', 'united states']"
+723,"Iran releases the 52 U.S. hostages held in Tehran after 444 days.
+","['Iran', 'U.S.', 'Tehran']","['iran', 'united states']"
+724,"March 30 : Assassination attempt on U.S. president Ronald Reagan.
+",['U.S.'],['united states']
+730,"December 13 : Martial law in Poland begins.
+",['Poland'],['poland']
+732,"April 25 : Israel withdraws from Sinai Peninsula .
+","['Israel', 'Sinai Peninsula']",['israel']
+740,"December 10 : End of dictatorship in Argentina .
+",['Argentina'],['argentina']
+741,"1984
+June 1 – 10 : Indian Armed Forces launch Operation Blue Star against Sikh separatists in Punjab, India, leading to thousands of civilian deaths.
+","['Punjab', 'India']",['india']
+743,"December 19 : Sino-British Joint Declaration agrees to hand Hong Kong back to China by 1997.
+","['Sino-British', 'Hong Kong', 'China']",['china']
+746,"Beginning of the 1983–1985 famine in Ethiopia and the 1984–85 UK miners' strike .
+","['Ethiopia', 'UK']",['united kingdom']
+749,"March 15 : End of military leadership in Brazil .
+",['Brazil'],['brazil']
+752,"August 20 : Beginning of the Iran–Contra affair , a political scandal in the United States that occurred during the second term of the Reagan Administration involving the sale of arms to the Khomeini government of the Islamic Republic of Iran.
+","['Iran', 'Contra', 'the United States', 'the Islamic Republic of Iran']",['iran']
+759,"1986
+January 1 : Portugal and Spain joins the European Communities .
+","['Portugal', 'Spain']","['portugal', 'spain']"
+762,"February 22 – 25 : The People Power Revolution leads to the end of the dictatorship of Ferdinand Marcos in the Philippines .
+",['Philippines'],['philippines']
+763,"February 28 : Assassination of Olof Palme , Prime Minister of Sweden.
+",['Sweden'],['sweden']
+765,"Return of Halley's Comet .
+April 15 : U.S. planes bomb Libya in Operation El Dorado Canyon .
+April 26 : The Chernobyl disaster in Ukraine kills about 100 people.
+October 11 – October 12 : A breakthrough in nuclear arms control at the Reykjavík Summit .
+October 19 : Samora Machel , the first President of Mozambique , dies in a plane crash .
+November 3 : The Iran–Contra affair publicly announced.
+","['U.S.', 'Libya', 'Operation El Dorado Canyon', 'Ukraine', 'Mozambique', 'Iran']","['iran', 'united states']"
+766,"1987
+June 10 – 29 : The June Democratic Struggle , a nationwide pro-democracy movement in South Korea, leads to democratic reforms and an end to authoritarian rule.
+",['South Korea'],['south korea']
+768,"September 13 : A radioactive contamination accident in Goiânia, Brazil, leaves 249 people contaminated, four of which die.
+September 15 :","['Goiânia', 'Brazil']",['brazil']
+769,"Huawei founded in Shenzhen , China by Ren Zhengfei .
+October 19 : Stock market crash of 1987.
+","['Shenzhen', 'China']",['china']
+772,December 8 : The First Intifada between Israel and Palestine begins.,"['Israel', 'Palestine']",['israel']
+773,"The Intermediate-Range Nuclear Forces Treaty is signed in Washington, D.C., by U.S. President Ronald Reagan and Soviet leader Mikhail Gorbachev.
+","['Washington', 'D.C.', 'U.S.', 'Soviet']",['united states']
+774,"The First Intifada between Israel and Palestine begins.
+","['Israel', 'Palestine']",['israel']
+775,"The Intermediate-Range Nuclear Forces Treaty is signed in Washington, D.C., by U.S. President Ronald Reagan and Soviet leader Mikhail Gorbachev.
+","['Washington', 'D.C.', 'U.S.', 'Soviet']",['united states']
+780,"August 20 : End of the Iran–Iraq War .
+",['Iran'],['iran']
+781,"October 5 : Chile's Augusto Pinochet loses a national plebiscite on his rule.
+",['Chile'],['chile']
+784,"December 2 : Benazir Bhutto elected Prime Minister of Pakistan months after restoration of civilian rule in the wake of Muhammad Zia-ul-Haq 's death in plane crash.
+December 7 : Spitak earthquake in Armenia.
+","['Pakistan', 'Armenia']",['pakistan']
+792,"January 7 : Emperor Shōwa (Hirohito) dies; his son, Akihito (the Emperor Heisei) becomes Emperor of Japan.
+",['Japan'],['japan']
+800,"June 3 : Ruhollah Khomeini dies ; Ali Khamenei becomes Supreme Leader of Iran .
+June 4 : 1989 Polish legislative election although the elections were not entirely democratic, they led to the formation of a government led by Tadeusz Mazowiecki and a peaceful transition to democracy in Poland and elsewhere in Central and Eastern Europe.","['Iran', 'Polish', 'Poland']","['iran', 'poland']"
+803,"1989 Polish legislative election although the elections were not entirely democratic, they led to the formation of a government led by Tadeusz Mazowiecki and a peaceful transition to democracy in Poland and elsewhere in Central and Eastern Europe.
+","['Polish', 'Poland']",['poland']
+808,"Fall of the Berlin Wall ; the Revolutions of 1989 and the collapse of the Soviet Bloc begin in Europe, which leads to the end of the Cold War .
+November 15 – December 17 : The first direct Presidential election in Brazil since 1960.
+","['Soviet', 'Europe', 'Brazil']",['brazil']
+809,"November 24 : The Communist government of Czechoslovakia falls during the Velvet Revolution .
+","['Communist', 'Czechoslovakia']",['czechoslovakia']
+813,"December 25 : Romanian Revolution : Trial and execution of Nicolae and Elena Ceaușescu in Romania.
+1990s
+1990
+January 31 : The first McDonald's in Moscow, Russian SFSR opens 8 months after construction began on May 3, 1989
+February 11 : Nelson Mandela is released from Victor Verster Prison outside Cape Town , South Africa after 27 years as a political prisoner.
+","['Nicolae', 'Elena Ceaușescu', 'Romania', 'Moscow', 'Russian', 'Cape Town', 'South Africa']",['south africa']
+814,"March 11 : End of the dictatorship of Augusto Pinochet in Chile .
+",['Chile'],['chile']
+816,"April 24 – May 20 : Launch of the Hubble Space Telescope .
+April 7 : Scandinavian Star , a Bahamas -registered ferry, catches fire en route from Norway to Denmark, leaving 158 dead.
+","['Bahamas', 'Norway', 'Denmark']","['denmark', 'norway']"
+818,"June 21 : The 7.4 M w Manjil–Rudbar earthquake affects northern Iran with a maximum Mercalli intensity of X ( Extreme ), killing 35,000–50,000, and injuring 60,000–105,000.
+August 2 – 4 : Gulf War begins.
+September 6 :",['Iran'],['iran']
+828,"May 16 : Elizabeth II becomes the first British monarch to address the U.S. Congress during a 13-day royal visit in Washington, D.C.
+May 21 : Assassination of Rajiv Gandhi , Indian Prime Minister.
+","['British', 'U.S.', 'Washington', 'D.C.', 'Indian']",['united states']
+829,"May 24 – 25 : Operation Solomon , a covert Israeli military operation to airlift Ethiopian Jews to Israel.
+","['Israeli', 'Ethiopian', 'Jews', 'Israel']",['israel']
+831,"The world's first GSM telephone call is made in Finland .
+",['Finland'],['finland']
+832,"The world's first GSM telephone call is made in Finland .
+",['Finland'],['finland']
+833,"July 10 : Boris Yeltsin becomes the first President of Russia .
+",['Russia'],['russia']
+835,"It is seen by 20 million people in Hawaii , Mexico , and Colombia .
+","['Hawaii', 'Mexico', 'Colombia']",['mexico']
+854,"Fuel leaking into a sewer causes a series of explosions in Guadalajara , Mexico; 215 are killed, 1,500 injured.
+April 29 – May 4 : Los Angeles riots over the acquittal of those involved in the beating of Rodney King .
+","['Guadalajara', 'Mexico', 'Los Angeles']",['mexico']
+855,"May 13 : Falun Gong is introduced by Li Hongzhi in China.
+June 8 : The first World Oceans Day is celebrated, coinciding with the Earth Summit held in Rio de Janeiro , Brazil .
+","['China', 'the Earth Summit', 'Rio de Janeiro', 'Brazil']","['brazil', 'china']"
+865,"February 28 – April 19 : The Waco siege , the law enforcement siege of the compound that belonged to the Seventh-day Adventist religious sect Branch Davidians near Waco, Texas , carried out by the U.S. federal government, Texas state law enforcement, and the U.S. military, which results in a gunfight, a fire at the compound and 86 deaths.
+","['Branch Davidians', 'Waco', 'Texas', 'U.S.', 'Texas', 'U.S.']",['united states']
+866,"March 12 : Several bombs explode in Bombay , India, killing 257 and injuring hundreds more.
+","['Bombay', 'India']",['india']
+869,"September 13 : Oslo accords end First Intifada between Israel and Palestine .
+","['Israel', 'Palestine']",['israel']
+882,"May 10 : End of apartheid in South Africa and election of Nelson Mandela .
+",['South Africa'],['south africa']
+883,"June 15 : Release date of Disney's The Lion King .
+June 23 : Release date of Forrest Gump .
+July 1 : Plano Real introduces the new real currency in Brazil.
+",['Brazil'],['brazil']
+886,"Kim Jong-il becomes Supreme Leader of North Korea .
+",['North Korea'],['north korea']
+892,"December 14 : Construction of the Three Gorges Dam begins in Hubei, China.
+","['Hubei', 'China']",['china']
+893,"Rise of a wave of Palestinian terrorist attacks in Israel .
+","['Palestinian', 'Israel']",['israel']
+895,"Austria , Finland and Sweden join the European Union .
+","['Austria', 'Finland', 'Sweden']","['austria', 'finland', 'sweden']"
+897,"Austria , Finland and Sweden join the European Union .
+","['Austria', 'Finland', 'Sweden']","['austria', 'finland', 'sweden']"
+902,"May 14 : The Dalai Lama proclaims 6-year-old Gedhun Choekyi Nyima as the 11th reincarnation of the Panchen Lama .
+June 29 : The Sampoong Department Store collapse , a structural failure in a department store in Seoul, South Korea, kills 502 people and injures other 1,445.
+","['the Panchen Lama', 'Seoul', 'South Korea']",['south korea']
+916,"April 28 – 29 : The Port Arthur massacre in Tasmania, Australia leaves 35 people dead, leading to tighter gun regulations in Australia.
+","['Port Arthur', 'Tasmania', 'Australia', 'Australia']",['australia']
+925,"October 24 : The First Congo War begins.
+November 1 : Release of DVD in Japan.
+",['Japan'],['japan']
+928,"Increasing terrorist attacks in Israel.
+",['Israel'],['israel']
+930,"February 4 : 1997 Israeli helicopter disaster , when two Israeli Air Force transport helicopters ferrying Israeli soldiers into Israel's security zone in southern Lebanon collided in mid-air, killing all 73 Israeli military personnel on board.
+March 13 : Island of Peace massacre , a mass murder attack that occurred at the Island of Peace on the Israeli-Jordanian border, in which 7 people were killed and 6 injured.
+","['Israeli', 'Israeli', 'Israeli', 'Israel', 'Lebanon', 'Israeli', 'the Island of Peace', 'Israeli']",['israel']
+936,"July 1 : Handover of Hong Kong from the United Kingdom to China.
+","['Hong Kong', 'the United Kingdom', 'China']",['china']
+942,"November 17 : 62 people are killed by 6 Islamic militants outside the Temple of Hatshepsut in Luxor , Egypt .
+","['Islamic', 'Luxor', 'Egypt']",['egypt']
+946,"February 3 : A United States military pilot causes the deaths of 20 people near Trento , Italy, when his low-flying EA-6B Prowler severs the cable of a cable-car .
+","['United States', 'Trento', 'Italy']","['italy', 'united states']"
+950,"May 4 – 15 : Riots in Indonesia , including incidents of mass violence, demonstrations, and civil unrest of a racial nature, result in the Fall of Suharto and the independence of East Timor .
+June 25 :","['Indonesia', 'East Timor']",['indonesia']
+952,"July 17 : Nicholas II of Russia and his family are buried in St. Catherine Chapel, 80 years after he and his family were killed by the Bolsheviks in 1918 .
+","['Russia', 'Bolsheviks']",['russia']
+963,"A crisis in East Timor , which led to 1,400 deaths, begins.
+April 20 : The Columbine High School massacre in Colorado, United States, causes 15 deaths.
+","['East Timor', 'Colorado', 'United States']",['united states']
+974,December 31 : Vladimir Putin becomes the President of Russia .,['Russia'],['russia']
+975,"The U.S. turns over complete administration of the Panama Canal to the Panamanian Government, as stipulated in the Torrijos–Carter Treaties of 1977 .
+","['U.S.', 'the Panama Canal']",['united states']
+976,"Vladimir Putin becomes the President of Russia .
+",['Russia'],['russia']
+977,"The U.S. turns over complete administration of the Panama Canal to the Panamanian Government, as stipulated in the Torrijos–Carter Treaties of 1977 .
+","['U.S.', 'the Panama Canal']",['united states']
+980,"March 10 : Dot-com bubble bursts, causing stock markets worldwide to crash.
+March 4 : The Sony PlayStation 2 releases in Japan.",['Japan'],['japan']
+984,"March 26 : Vladimir Putin is elected President of Russia .
+",['Russia'],['russia']
+987,"May 11 : India becomes the second country to reach 1 billion people.
+",['India'],['india']
+990,"July 1 : The Øresund Bridge between Denmark and Sweden is officially opened for traffic.
+","['Denmark', 'Sweden']","['denmark', 'sweden']"
+992,"July 11 – 25 : The 2000 Camp David Summit , aimed at reaching a ""final status"" agreement between the Palestinians and the Israelis, was held between United States president Bill Clinton , Israeli prime minister Ehud Barak and Palestinian Authority chairman Yasser Arafat .
+","['Palestinians', 'Israelis', 'United States', 'Israeli']",['united states']
+994,"July 25 : Concorde Air France Flight 4590 crashes in France , killing 113 including all people aboard.
+",['France'],['france']
+997,"September 13 : Steve Jobs introduces the public beta of Mac OS X .
+September 26 : The Greek ferry Express Samina sinks off the coast of the island of Paros ; 80 out of a total of over 500 passengers perish in one of Greece's worst sea disasters.
+","['Greek', 'Paros', 'Greece']",['greece']
+1000,"December 25 : The Luoyang Christmas fire at a shopping center in China kills 309 people.
+","['Luoyang', 'China']",['china']

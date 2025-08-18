@@ -1,0 +1,828 @@
+src,dst,weight
+D.C.,Washington,4
+Israeli,Lebanon,3
+D.C.,U.S.,3
+Israel,Palestine,3
+Soviet,the Soviet Union,3
+Arab,Israel,3
+U.S.,Washington,3
+U.S.,the Panama Canal,3
+Iran,U.S.,3
+Nicaragua,United States,2
+Bangladesh,Pakistan,2
+Bolsheviks,Russia,2
+Israeli,Palestinians,2
+Indonesia,Malaysia,2
+Russia,the United States,2
+Austria,Sweden,2
+Seoul,South Korea,2
+France,Germany,2
+British,Palestine,2
+Denmark,the United Kingdom,2
+China,Japan,2
+France,Morocco,2
+Poland,Russia,2
+China,Hong Kong,2
+Afghanistan,Soviet,2
+Finland,Sweden,2
+Iran,Tehran,2
+Nigeria,the Republic of Biafra,2
+Poland,Polish,2
+Europe,Soviet,2
+Denmark,Norway,2
+British,India,2
+British,Germans,2
+Britain,Germany,2
+British,Finland,2
+Japan,the United States,2
+Soviet,U.S.,2
+Japanese-American,US,2
+Soviet,Washington,2
+China,Xi'an,2
+Ethiopian,Jews,2
+Austria,Hungary,2
+Britain,France,2
+Tehran,U.S.,2
+D.C.,Soviet,2
+Austria,Finland,2
+Israel,Israeli,2
+Alaska,Beirut,1
+Alaska,Soviet,1
+Alaska,Seoul,1
+Alaska,New York City,1
+African-American,New Jersey,1
+Alaska,Anchorage,1
+African-American,the United States,1
+African-American,Lebanon,1
+Albuquerque,Lebanon,1
+Albania,Paris,1
+Bahamas,the United States,1
+Albuquerque,New Mexico,1
+Algiers,Israeli,1
+Algiers,Palestinian,1
+Alps,North and South Korea,1
+American,Britain,1
+American,Comets,1
+Arab,the Sinal Peninsula,1
+Argentina,Argentine,1
+Austria,Djibouti,1
+Austria,Ethiopia,1
+African-American,Atlantic City,1
+African-American,Beirut,1
+Amsterdam,Israeli,1
+Africa,the United States,1
+Arab,Egyptian,1
+Austria,German,1
+Amsterdam,the United States,1
+Anchorage,Beirut,1
+Anchorage,New York City,1
+Anchorage,Seoul,1
+Anchorage,Soviet,1
+Ankara,Istanbul,1
+Ankara,Republic of Turkey,1
+Arab,British,1
+Arab,Jewish,1
+Africa,Iraqi,1
+Arab,Jordan,1
+Arab,Palestine,1
+Arab,the Gaza Strip,1
+Arab,the Golan Heights,1
+American,Newfoundland,1
+American,French,1
+Arab,the West Bank,1
+American,Cuban,1
+Africa,Baghdad,1
+Austria,France,1
+Armenia,Azerbaijan,1
+Austria,Germany,1
+Austria,Haiti,1
+Armenian,Azerbaijan,1
+Armenian,the Soviet Union,1
+Asia,Southern Europe,1
+Asia,USA,1
+Asia,the Middle East,1
+Asian,China,1
+Atlanta,Miami,1
+Atlantic City,Beirut,1
+Atlantic City,Lebanon,1
+Atlantic City,New Jersey,1
+Atlantic City,the United States,1
+Aum Shinrikyo,Tokyo,1
+Australia,Canberra,1
+Australia,Port Arthur,1
+Australia,Tasmania,1
+Australian,Cheviot Beach,1
+Australian,Victoria,1
+California,San Diego,1
+California,San Francisco,1
+California,Tokyo,1
+East Timor,Indonesian,1
+Armenia,the Soviet Union,1
+Armenia,Pakistan,1
+American,the West Bank,1
+Baghdad,German,1
+Austria,Innsbruck,1
+Austria,Nazi,1
+Austria,Russia,1
+Austria,Sarajevo,1
+Austria,Somalia,1
+Austria,The United States,1
+Azerbaijan,the Ottoman Empire,1
+Azerbaijan,the Soviet Union,1
+Baghdad,Berlin,1
+Baghdad,Iraqi,1
+Armenia,Armenian,1
+Baghdad,The Ottoman Empire,1
+Baghdad,the United States,1
+Bahamas,Denmark,1
+Bahamas,Israeli,1
+Bahamas,Norway,1
+Austria,Empire,1
+Austria,China,1
+Arkansas,Rogers,1
+Austria,Bosnia-Herzegovina,1
+Amsterdam,Bahamas,1
+Britain,Sudan,1
+American,Western European,1
+American,Sri Lanka,1
+Beijing,Triton,1
+Beirut,Lebanon,1
+Beirut,New Jersey,1
+Beirut,New York City,1
+Beirut,Seoul,1
+Beirut,Soviet,1
+Beirut,the United States,1
+Belgium,Denmark,1
+Belgium,France,1
+Belgium,Netherlands,1
+Belgium,Norway,1
+Belgium,the United Kingdom,1
+Belgrade,Yugoslav,1
+Brazil,the Earth Summit,1
+Brazilian,Paris,1
+Brazilian,US,1
+British,Montreal,1
+British,O.S.,1
+British,Palestinian,1
+British,South Africa,1
+British,Soviet Union,1
+Beijing,Chinese,1
+Beatles,Liverpool,1
+Barbados,the United States,1
+Brazil,Latin America,1
+Bosnia-Herzegovina,Hungary,1
+Gaza,O.S.,1
+Boston,Brazil,1
+Branch Davidians,Texas,1
+Branch Davidians,U.S.,1
+Branch Davidians,Waco,1
+Brazil,China,1
+Brazil,Europe,1
+Brazil,Goiânia,1
+Brazil,Rio de Janeiro,1
+Barbados,the Atlantic Ocean,1
+Brazil,Soviet,1
+Berlin,German,1
+Berlin,France,1
+Bengal,British,1
+Bellevue,Washington,1
+Baltic,USSR,1
+Barbados,Canada,1
+Barbados,Egypt,1
+Barbados,Jordan,1
+British,Soviet War,1
+British,U.S.,1
+British,USSR,1
+British,Egyptian,1
+Britain,Uganda,1
+Britain,Venezuela,1
+Britain,Venezuelan,1
+Britain,Western European,1
+British,Canada,1
+British,Chechen,1
+British,China,1
+British,D.C.,1
+British,Egypt,1
+British,Gaza,1
+Britain,Sri Lanka,1
+British,Hungarian,1
+British,Indian,1
+British,Jewish,1
+Baltic,The Soviet Union,1
+Baltic,Soviet,1
+Baltic,Polish,1
+American,Kazakhstan,1
+American,Oklahoma City,1
+American,Russian,1
+Egypt,Islamic,1
+Britain,Soviet,1
+British,Ukrainian,1
+Cairo,Nantucket,1
+British,Washington,1
+British,the Russian Republic,1
+British,the Suez Canal,1
+British,the United Kingdom,1
+Brussels,Lod,1
+Brussels,Palestinian,1
+Brussels,Tel Aviv,1
+Buddhist,South Vietnam,1
+Cairo,Massachusetts,1
+Cairo,New York City,1
+Britain,Poland,1
+California,Dreyfus,1
+California,San Bernardino,1
+British,New Delhi,1
+British,McKinley,1
+Britain,Ghana,1
+British,Malta,1
+Britain,Italy,1
+Britain,Japanese,1
+Britain,Lushun,1
+Eastern Bloc,Prague,1
+East Germany,German Democratic Republic,1
+Egypt,Israel,1
+Damascus,Israeli,1
+Cambodian,Saigon,1
+Canada,Egypt,1
+Canada,Finland,1
+Canada,Gaza,1
+Canada,Jordan,1
+Canada,Montreal,1
+Canada,O.S.,1
+Canada,Soviet War,1
+Canada,Ukrainian,1
+Canada,the Atlantic Ocean,1
+Canada,the Russian Republic,1
+Canada,the United States,1
+Cape Kennedy,Mars,1
+Cape Town,Elena Ceaușescu,1
+Cape Town,Moscow,1
+Cape Town,Nicolae,1
+Cape Town,Romania,1
+Cape Town,Russian,1
+Cape Town,South Africa,1
+Chamonix,France,1
+China,Russia,1
+Cambodian,India,1
+Chechen,Finland,1
+China,Shenzhen,1
+China,Italy,1
+Chechnya,Russian,1
+Cheviot Beach,Victoria,1
+Chicago,North Side Gang,1
+Chile,Valdivia,1
+Chile,Valparaíso,1
+China,Empire,1
+China,German,1
+China,Hubei,1
+China,Hungary,1
+China,Japanese,1
+Chechen,German,1
+China,Khrushchev,1
+China,Libya,1
+China,Luoyang,1
+China,Manchuria,1
+China,McKinley,1
+China,New York City,1
+China,Portugal,1
+China,Rio de Janeiro,1
+Chechen,Soviet,1
+China,Sino-British,1
+Communist,Switzerland,1
+Chechen,Soviet Union,1
+Contra,Iran,1
+China,South Africa,1
+China,Soviet,1
+China,Soviet Republic,1
+China,Tibet,1
+China,the Dalai Lama,1
+China,the Earth Summit,1
+China,the Far East,1
+China,the Pacific Ocean,1
+China,the Soviet Union,1
+China,the United Kingdom,1
+Chinese,Triton,1
+Colombia,Hawaii,1
+Colombia,Mexico,1
+Colombia,Tolima,1
+Colombian,USA,1
+Colorado,East Timor,1
+Colorado,United States,1
+Communist,Czechoslovakia,1
+Communist,Geneva,1
+Communist,Hainan Island,1
+Communist,India,1
+Communist,Indian,1
+China,Sino-Soviet,1
+Communist,Nationalist,1
+Cuba,The United States,1
+Contra,the Islamic Republic of Iran,1
+Contra,the United States,1
+Costa Rica,El Salvador,1
+Costa Rica,Guatemala,1
+Costa Rica,Honduras,1
+Croats,German Revolution,1
+Croats,Germany,1
+Croats,Serbs,1
+Croats,The Mutawakkilite Kingdom of Yemen,1
+Cuba,United States,1
+Communist,USSR,1
+Cuba,the United States,1
+Czechoslovakia,Dominican Republic,1
+Czechoslovakia,Eastern Bloc,1
+Czechoslovakia,Germany,1
+Czechoslovakia,Jewish,1
+Czechoslovakia,Jews,1
+Czechoslovakia,Nazi Germany,1
+Czechoslovakia,Prague,1
+D.C.,Indian,1
+Chechen,USSR,1
+Chechen,Palestinian,1
+Egypt,Jordan,1
+France,Innsbruck,1
+Denmark,Sweden,1
+Denmark,The Kingdom of Iceland,1
+Detroit,Swiss,1
+Djibouti,Ethiopia,1
+Djibouti,France,1
+Djibouti,Innsbruck,1
+Djibouti,Somalia,1
+Dominican Republic,Germany,1
+Dominican Republic,Jewish,1
+Dominican Republic,Jews,1
+Dominican Republic,Nazi Germany,1
+Dreyfus,San Francisco,1
+Earth,Germany,1
+Earth,Great Britain,1
+Earth,Interlaken,1
+Earth,Switzerland,1
+Earth,Wolfach,1
+Earth,the United States',1
+Empire,Russia,1
+Ethiopia,Innsbruck,1
+Dauphin County,Mile Island,1
+Denmark,Netherlands,1
+Denmark,Ireland,1
+Denmark,France,1
+El Salvador,Honduras,1
+Egypt,Luxor,1
+Egypt,The United Kingdom,1
+Egypt,the Atlantic Ocean,1
+Egypt,the Suez Canal,1
+Egypt,the United Kingdom,1
+Egypt,the United States,1
+Egyptian,Israel,1
+Egyptian,Polish,1
+El Salvador,Guatemala,1
+Elena Ceaușescu,Moscow,1
+Bombay,India,1
+Elena Ceaușescu,Nicolae,1
+Elena Ceaușescu,Romania,1
+Elena Ceaușescu,Russian,1
+Elena Ceaușescu,South Africa,1
+Empire,German,1
+Empire,Hungary,1
+East Timor,United States,1
+East Timor,Indonesia,1
+Ethiopia,France,1
+Finland,the Soviet Union,1
+France,Japanese,1
+Cambodia,Vietnamese,1
+France,Lushun,1
+Ethiopian,Israel,1
+Ethiopian,Israeli,1
+Ethiopian,Sudan,1
+Europe,Finland,1
+Europe,Latin America,1
+Europe,Nazi,1
+Europe,Poland,1
+Europe,Protests,1
+Europe,Western,1
+Europe,the United States,1
+Federal Republic of Germany,West Germany,1
+Finland,Gaza,1
+Finland,Montreal,1
+Finland,Nazi,1
+Finland,O.S.,1
+Finland,Palestinian,1
+Finland,Soviet Union,1
+Finland,Soviet War,1
+Finland,USSR,1
+Dauphin County,Pennsylvania,1
+Dauphin County,Harrisburg,1
+Ethiopia,UK,1
+Ethiopia,Somalia,1
+Finland,Ukrainian,1
+France,the South Pole,1
+France,Netherlands,1
+France,New York City,1
+France,Norway,1
+France,Poland,1
+France,Somalia,1
+France,Soviet,1
+France,The United States,1
+France,U.K.,1
+France,U.S.,1
+France,the United Kingdom,1
+Ethiopia,Italy,1
+Francisco Franco,Spain,1
+French,Newfoundland,1
+Fátima,Portugal,1
+Fátima,Russian,1
+Fátima,USA,1
+Fátima,the Russian Empire,1
+Gaza,Montreal,1
+France,Hollywood,1
+Finland,the Russian Republic,1
+Bonn,Paris,1
+New York City,Seoul,1
+Bolsheviks,the United States,1
+Libya,Ukraine,1
+German,the United Kingdom,1
+German,the Weimar Republic,1
+German Revolution,Germany,1
+German Revolution,Serbs,1
+German Revolution,The Mutawakkilite Kingdom of Yemen,1
+Greek,Paros,1
+Guadalajara,Mexico,1
+Ireland,the United Kingdom,1
+Indian,U.S.,1
+Indian,the United Kingdom,1
+Indonesia,anti-Communist,1
+Innsbruck,Somalia,1
+Interlaken,Switzerland,1
+Interlaken,Wolfach,1
+Iran,Libya,1
+Iran,Mozambique,1
+Iran,Operation El Dorado Canyon,1
+Iran,Pahlavi,1
+Iran,Persia,1
+Iran,Poland,1
+Iran,Polish,1
+German,The Ottoman Empire,1
+German,Soviet,1
+German,South West Africa,1
+Geneva,Switzerland,1
+Great Britain,Switzerland,1
+Great Britain,Wolfach,1
+Greece,Greek,1
+Greece,Paros,1
+Germany,Jewish,1
+Germany,Interlaken,1
+Guadalajara,Los Angeles,1
+Germany,Great Britain,1
+Geneva,Hainan Island,1
+Georgia,Russia,1
+German,Russia,1
+Georgia,Soviet,1
+Georgia,the Soviet Union,1
+Georgia,the United States,1
+German,Hindenburg,1
+German,Hungary,1
+German,Lakehurst,1
+German,Nama,1
+German,Nazi,1
+German,New Jersey,1
+Iran,South Korea,1
+Iran,Ukraine,1
+Great Britain,India,1
+Iran,the Islamic Republic of Iran,1
+Hungary,Russia,1
+India,Indian,1
+India,New Delhi,1
+India,Pakistan,1
+India,Punjab,1
+India,Saigon,1
+Libya,U.S.,1
+Malaysia,Zanzibar,1
+Libya,the Libyan Arab Republic,1
+South African,Transvaal,1
+Sharpeville,South African,1
+Sharpeville,Transvaal,1
+Siberia,Tunguska,1
+Siberia,the Ottoman Empire,1
+Sino-Soviet,Soviet,1
+Skamania County,Washington,1
+Slovenia,Yugoslav,1
+Slovenia,the United States,1
+South Africa,Soweto,1
+South Africa,Uganda,1
+South Dakota,U.S.,1
+Hong Kong,the United Kingdom,1
+Hong Kong,Sino-British,1
+Hollywood,New York City,1
+Hainan Island,Switzerland,1
+Iran,the United States,1
+Iraqi,North Sea,1
+Iraqi,the United States,1
+Ireland,Northern Ireland,1
+Ireland,The United Kingdom of Great Britain,1
+Indian,Washington,1
+Indian,Lucknow,1
+Guatemala,Honduras,1
+India,the United Kingdom,1
+Haiti,Nazi,1
+Hiroshima,Nagasaki,1
+Haiti,The United States,1
+Haiti,the United States,1
+Hamamatsu,Japan,1
+Harrisburg,Mile Island,1
+Harrisburg,Pennsylvania,1
+Hawaii,Mexico,1
+Hejaz,Saudi,1
+Hindenburg,Lakehurst,1
+Hindenburg,New Jersey,1
+Great Britain,Interlaken,1
+Germany,the Soviet Union,1
+Bolsheviks,Panama,1
+Japanese,Lushun,1
+Israel,Jews,1
+Israel,Jordan,1
+Israel,Lebanon,1
+Libya,New York,1
+Israel,Palestinian,1
+Korea,South Korea,1
+Leo Baekeland,New York,1
+Lebanon,the United States,1
+Israel,Sinai Peninsula,1
+Lebanon,the Soviet Union,1
+Lebanon,the Island of Peace,1
+Israel,the Gaza Strip,1
+Israel,the Golan Heights,1
+Istanbul,Republic of Turkey,1
+Italian,Libya,1
+Korea,North Korean,1
+Japanese,Peru,1
+Kenya,Malaysia,1
+Kazakhstan,Russian Proton,1
+Kazakhstan,Russian,1
+Japanese,Lima,1
+Libya,New York City,1
+Islamic,Luxor,1
+Libya,Operation El Dorado Canyon,1
+Israeli,the Island of Peace,1
+Israeli,United States,1
+Israel,the West Bank,1
+Israeli,Israelis,1
+Israeli,Jews,1
+Lebanon,New Jersey,1
+Israeli,Palestinian,1
+Jewish,Palestine,1
+Lebanon,New Mexico,1
+Latin America,the United States,1
+Israeli,the Soviet Union,1
+Libya,Mozambique,1
+Israeli,the United States,1
+Latin America,Protests,1
+Lakehurst,New Jersey,1
+Korea,the Pusan Perimeter,1
+Israelis,Palestinians,1
+Israelis,United States,1
+Israel,the Sinal Peninsula,1
+Lebanon,Palestinians,1
+Israel,the Island of Peace,1
+Jordan,the United States Constitution,1
+Jordan,the United States,1
+Germany,Wolfach,1
+Japanese,USA,1
+Italy,Venezuela,1
+Italy,Venezuelan,1
+Japan,Manchuria,1
+Japan,Meiji,1
+Japan,the United Kingdom,1
+Aberfan,Wales,1
+Ireland,the United Kingdom of Great Britain,1
+Germany,Italy,1
+Germany,Jews,1
+Germany,Nazi Germany,1
+Germany,Paris,1
+Germany,Poland,1
+Germany,Sea,1
+Germany,Serbs,1
+Germany,Soviet,1
+Germany,Switzerland,1
+Germany,The Mutawakkilite Kingdom of Yemen,1
+Germany,U.K.,1
+Germany,U.S.,1
+Germany,Venezuela,1
+Germany,Venezuelan,1
+Italy,United States,1
+Italy,Trento,1
+Italy,Thailand,1
+Japan,US,1
+Japan,the Pacific Ocean,1
+Japanese,United States,1
+Japanese,the Far East,1
+Jordan,the Atlantic Ocean,1
+Johannesburg,London,1
+Jewish,Jews,1
+Jewish,Nazi Germany,1
+Jews,Sudan,1
+Kenya,Tanzania,1
+Khrushchev,Soviet,1
+Japan,Soviet Republic,1
+Italy,New York City,1
+Jews,Nazi Germany,1
+Italian,the Vatican City,1
+Khrushchev,Sino-Soviet,1
+Kenya,Zanzibar,1
+Italy,Libya,1
+Italy,Messina,1
+Italy,Modena,1
+Italy,Rome,1
+Lima,Peru,1
+South Korea,Suwon,1
+South Korea,the Panchen Lama,1
+Pacific Ocean,The United States,1
+Manchuria,Soviet Republic,1
+Manchuria,the Pacific Ocean,1
+Massachusetts,Nantucket,1
+Massachusetts,New York City,1
+McKinley,South Africa,1
+Mensheviks,Panama,1
+Mensheviks,Russia,1
+Mensheviks,the United States,1
+Mexico City,Ottoman,1
+Michigan,USA,1
+Middle Eastern,Persia,1
+Nantucket,New York City,1
+Nazi,The United States,1
+Persia,Siberia,1
+Norway,Sweden,1
+Norwegian,Sweden,1
+O.S.,Soviet War,1
+O.S.,Ukrainian,1
+O.S.,the Russian Republic,1
+Operation El Dorado Canyon,U.S.,1
+Operation El Dorado Canyon,Ukraine,1
+Gaza,Ukrainian,1
+Macau,the Portuguese Republic,1
+Macau,the People's Republic of China,1
+Nama,South West Africa,1
+Moscow,South Africa,1
+Mount Pinatubo,Slovenia,1
+Mount Pinatubo,Yugoslav,1
+Mount Pinatubo,the United States,1
+Mount St. Helens,Skamania County,1
+Mount St. Helens,Washington,1
+Mozambique,Operation El Dorado Canyon,1
+Mozambique,U.S.,1
+Mozambique,Ukraine,1
+Mile Island,Pennsylvania,1
+Macau,Portuguese,1
+Middle Eastern,Tunguska,1
+Nazi,Poland,1
+Middle Eastern,Siberia,1
+Lincoln,Montana,1
+Lockerbie,Scotland,1
+Lod,Palestinian,1
+Lod,Tel Aviv,1
+Los Angeles,Mexico,1
+Lucknow,the United Kingdom,1
+Ottoman,Sultan,1
+Pacific Ocean,the Marshall Islands,1
+South Korea,the Pusan Perimeter,1
+Palau,the United States,1
+New York City,Soviet,1
+Nicolae,Romania,1
+Nicolae,Russian,1
+Nicolae,South Africa,1
+North Africa,Tobruk,1
+North Korea,Seoul,1
+North Korean,South Korea,1
+North Korean,the Pusan Perimeter,1
+North and South Yemen,the Republic of Yemen,1
+Northern Ireland,The United Kingdom,1
+Northern Ireland,The United Kingdom of Great Britain,1
+Gaza,the Russian Republic,1
+France,Tunisia,1
+Gaza,Soviet War,1
+Bonn,West Germany,1
+Berlin,Nazi Germany,1
+Berlin,The Ottoman Empire,1
+Bethel,Libya,1
+Bethel,New York,1
+Bethel,the Libyan Arab Republic,1
+Bolsheviks,Mensheviks,1
+New York City,Queens,1
+New York City,Paris,1
+New York,the Libyan Arab Republic,1
+Paris,US,1
+Palestinian,South Lebanon,1
+Palestinian,Soviet Union,1
+Palestinian,Tel Aviv,1
+Palestinian,USSR,1
+Palestinians,United States,1
+Palestinians,the Soviet Union,1
+Panama,Russia,1
+Panama,The United States,1
+Panama,the United States,1
+Paris,West Germany,1
+New York,United States,1
+Norway,the United Kingdom,1
+Norway,Norwegian,1
+Nazi,the Soviet Union,1
+Northern Ireland,the United Kingdom of Great Britain,1
+Netherlands,Norway,1
+Netherlands,the United Kingdom,1
+New England,New York,1
+New England,United States,1
+New Jersey,the United States,1
+Moscow,Russian,1
+Moscow,Romania,1
+Moscow,Nicolae,1
+Morocco,the South Pole,1
+Romania,Russian,1
+Romania,South Africa,1
+Royal,the United Kingdom,1
+Russia,Ukraine,1
+Russia,the Soviet Union,1
+Russian,South Africa,1
+Russian,USA,1
+Russian,the Russian Empire,1
+Soviet Republic,the Pacific Ocean,1
+Soviet Union,USSR,1
+Soviet War,Ukrainian,1
+US,the United Kingdom,1
+USA,the Russian Empire,1
+USSR,the Eastern Bloc,1
+Ukrainian,the Russian Republic,1
+Ukrainian,the Weimar Republic,1
+Venezuela,Venezuelan,1
+Yugoslav,the United States,1
+Zaire,the Democratic Republic of the Congo,1
+the Atlantic Ocean,the Canary Islands,1
+the Atlantic Ocean,the United States,1
+Rio de Janeiro,the Earth Summit,1
+Protests,the United States,1
+Portuguese,the Portuguese Republic,1
+Seoul,Soviet,1
+South Vietnamese,U.S.,1
+South Vietnamese,Washington,1
+Southern Europe,USA,1
+Southern Europe,the Middle East,1
+Soviet,USSR,1
+Soviet,Western,1
+Soviet,the North Pole,1
+Serbs,The Mutawakkilite Kingdom of Yemen,1
+Seoul,the Panchen Lama,1
+San Diego,Tokyo,1
+Portuguese,the People's Republic of China,1
+Polish,Soviet,1
+Polish,Soviet War,1
+Polish,USSR,1
+Port Arthur,Tasmania,1
+Portugal,Russian,1
+Portugal,Spain,1
+Portugal,USA,1
+Portugal,Xi'an,1
+Portugal,the Russian Empire,1
+the Central Coast,the San Francisco Bay Area,1
+the Gaza Strip,the Golan Heights,1
+the Gaza Strip,the Sinal Peninsula,1
+Poland,Soviet,1
+The United Kingdom of Great Britain,the United Kingdom of Great Britain,1
+The United States,Tunisia,1
+The United States,the Marshall Islands,1
+Tibet,the Dalai Lama,1
+Trento,United States,1
+Tunguska,the Ottoman Empire,1
+Turkish,the Northern Cyprus,1
+U.K.,U.S.,1
+U.S.,Ukraine,1
+Persia,the Ottoman Empire,1
+Texas,U.S.,1
+Persia,Tunguska,1
+Middle Eastern,the Ottoman Empire,1
+Milwaukee,Wisconsin,1
+Montreal,O.S.,1
+Montreal,Soviet War,1
+Montreal,Ukrainian,1
+Montreal,the Russian Republic,1
+Morocco,The United States,1
+Morocco,Tunisia,1
+Texas,Waco,1
+Tanganyika,Tanzania,1
+the Gaza Strip,the West Bank,1
+U.S.,the People's Republic of China,1
+the Golan Heights,the Sinal Peninsula,1
+the Golan Heights,the West Bank,1
+the Islamic Republic of Iran,the United States,1
+the Mutawakkilite Kingdom of Yemen,the Yemen Arab Republic,1
+the North Pole,the Ottoman Empire,1
+the People's Republic of China,the Portuguese Republic,1
+the Sinal Peninsula,the West Bank,1
+the Soviet Union,the United States,1
+USA,the Middle East,1
+Soviet War,the Russian Republic,1
+Taiwan,The Republic of China,1
+U.S.,Waco,1
+Soweto,Uganda,1
+Spain,Spanish,1
+Sri Lanka,Western European,1
+Suez,Switzerland,1
+Suez,the Suez Canal,1
+Switzerland,Wolfach,1
+Switzerland,the Suez Canal,1
+Syria,Syrian,1
+the Suez Canal,the United Kingdom,1
